@@ -1,0 +1,17 @@
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\bin\Debug\CsharpToExcel.exe.config
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\bin\Debug\CsharpToExcel.exe
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\bin\Debug\CsharpToExcel.pdb
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\bin\Debug\ClosedXML.dll
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\bin\Debug\ExcelNumberFormat.dll
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\bin\Debug\FastMember.dll
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\bin\Debug\System.IO.Packaging.dll
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\bin\Debug\ClosedXML.pdb
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\bin\Debug\ClosedXML.xml
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\bin\Debug\ExcelNumberFormat.xml
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\obj\Debug\CsharpToExcel.csprojAssemblyReference.cache
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\obj\Debug\CsharpToExcel.csproj.CoreCompileInputs.cache
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\obj\Debug\CsharpToExcel.csproj.CopyComplete
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\obj\Debug\CsharpToExcel.exe
+C:\Projetos GIT\CsharpToExcel\CsharpToExcel\obj\Debug\CsharpToExcel.pdb
